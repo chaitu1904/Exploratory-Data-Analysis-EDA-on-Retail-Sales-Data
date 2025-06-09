@@ -8,20 +8,20 @@ help the retail business make informed decisions.
 
 Dataset  1 https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data?select=retail_sales_dataset.csv
 
-Dataset  2 https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
+Dataset  2 https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
 
 
 Key Concepts and Challenges:
 
 
-Data Loading and Cleaning: Load the retail sales dataset.
+1.Data Loading and Cleaning: Load the retail sales dataset.
 
-Descriptive Statistics: Calculate basic statistics (mean, median, mode, standard deviation).
+2.Descriptive Statistics: Calculate basic statistics (mean, median, mode, standard deviation).
 
-Time Series Analysis: Analyze sales trends over time using time series techniques.
+3.Time Series Analysis: Analyze sales trends over time using time series techniques.
 
-Customer and Product Analysis: Analyze customer demographics and purchasing behavior.
+4.Customer and Product Analysis: Analyze customer demographics and purchasing behavior.
 
-Visualization: Present insights through bar charts, line plots, and heatmaps.
+5.Visualization: Present insights through bar charts, line plots, and heatmaps.
 
-Recommendations: Provide actionable recommendations based
+6.Recommendations: Provide actionable recommendations based
