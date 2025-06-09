@@ -55,13 +55,7 @@ EDA-Retail-Sales/
 
 ---
 
-## 🚀 How to Run
 
-You can run the analysis directly in **Google Colab**:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/EDA-Retail-Sales/blob/main/Retail_Sales_EDA.ipynb)
-
----
 
 ## 🔍 EDA Workflow
 
