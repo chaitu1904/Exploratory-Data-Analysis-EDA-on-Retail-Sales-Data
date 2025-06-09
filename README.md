@@ -6,11 +6,6 @@ to perform exploratory data analysis (EDA) to uncover patterns, trends, and insi
 help the retail business make informed decisions.
 
 
-Dataset  1 https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data?select=retail_sales_dataset.csv
-
-Dataset  2 https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
-
-
 Key Concepts and Challenges:
 
 
